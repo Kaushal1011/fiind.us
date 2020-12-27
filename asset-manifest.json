@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/fiind.us/static/css/main.ccfe227e.chunk.css",
+    "main.js": "/fiind.us/static/js/main.367ca244.chunk.js",
+    "main.js.map": "/fiind.us/static/js/main.367ca244.chunk.js.map",
+    "runtime-main.js": "/fiind.us/static/js/runtime-main.26ebcdb7.js",
+    "runtime-main.js.map": "/fiind.us/static/js/runtime-main.26ebcdb7.js.map",
+    "static/css/2.55d8add8.chunk.css": "/fiind.us/static/css/2.55d8add8.chunk.css",
+    "static/js/2.d9839235.chunk.js": "/fiind.us/static/js/2.d9839235.chunk.js",
+    "static/js/2.d9839235.chunk.js.map": "/fiind.us/static/js/2.d9839235.chunk.js.map",
+    "static/js/3.f5e91ab6.chunk.js": "/fiind.us/static/js/3.f5e91ab6.chunk.js",
+    "static/js/3.f5e91ab6.chunk.js.map": "/fiind.us/static/js/3.f5e91ab6.chunk.js.map",
+    "index.html": "/fiind.us/index.html",
+    "static/css/2.55d8add8.chunk.css.map": "/fiind.us/static/css/2.55d8add8.chunk.css.map",
+    "static/css/main.ccfe227e.chunk.css.map": "/fiind.us/static/css/main.ccfe227e.chunk.css.map",
+    "static/js/2.d9839235.chunk.js.LICENSE.txt": "/fiind.us/static/js/2.d9839235.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.26ebcdb7.js",
+    "static/css/2.55d8add8.chunk.css",
+    "static/js/2.d9839235.chunk.js",
+    "static/css/main.ccfe227e.chunk.css",
+    "static/js/main.367ca244.chunk.js"
+  ]
+}
